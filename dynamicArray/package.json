@@ -1,0 +1,17 @@
+{
+  "name": "dynamicarray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dynamicArray.js",
+  "scripts": {
+    "test": "mocha test.js",
+    "start": "node dynamicArray.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^11.7.4"
+  }
+}
